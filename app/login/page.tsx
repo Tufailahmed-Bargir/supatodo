@@ -54,7 +54,7 @@ export default async function Login({
                 <Label htmlFor="password">Password</Label>
               </div>
               <Input
-                minLength={6}
+                // minLength={6}
                 name="password"
                 id="password"
                 type="password"
